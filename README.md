@@ -1,16 +1,19 @@
-## Hi there 👋
+- **1.TITRE** 
+- **2.DESCRIPTION**
 
-<!--
-**guyjoel225/guyjoel225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> https://www.linkedin.com/in/kouame-guy-joel-konan-5b8450256/
+|       Title               |                                 Descriptions                                                     |
+|---------------------------|--------------------------------------------------------------------------------------------------|
+|        Name               |Konan Kouame Guy Joel                                                                             |
+|        Country            |Côte d'Ivoire                                                                                     |
+|       Certification       |R.A.S                                                                                             |
+|        Formation          |Graduated in **Systems and Network Administration & Security** /security and system administration
+|        Backend            |                                                                                                  |
+|        Frontend           |                                                                                                  |
+|        Mobile             |                                                                                                  |
+|         Tec               |Docker, Vscode, Codeblocks,nano, vi, OpenStack, Nexcloud, VMware, GNS3, Packet Tracer, etc.       |
+|         Language          |Python                                                                                            |
+|         Hacking           | wireshark, nmap, metasploit                                                                      |
+|        Systems            |Linux (debian/ubuntu, rocky/centos) , Windowss                                                    |
+|        Network            |TCP/IP, WAN, VLAN, Routing                                                                        |
