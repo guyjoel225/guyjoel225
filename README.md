@@ -1,6 +1,7 @@
 - **1.TITRE** 
 - **2.DESCRIPTION**
-
+  **👨‍💻 Admin by profession, explorer by mindset. I secure systems like I observe nature: with precision and respect.**
+  **On a journey from Linux to Cybersecurity 🛡️ — learning every step of the way.**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> https://www.linkedin.com/in/kouame-guy-joel-konan-5b8450256/
 |       Title               |                                 Descriptions                                                     |
