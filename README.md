@@ -8,7 +8,7 @@
 |        Name               |Konan Kouame Guy Joel                                                                             |
 |        Country            |Côte d'Ivoire                                                                                     |
 |       Certification       |R.A.S                                                                                             |
-|        Formation          |Graduated in **Systems and Network Administration & Security** /security and system administration
+|        Formation          |Graduated in **Systems and Network Administration & Security** /security and system administration|
 |        Backend            |                                                                                                  |
 |        Frontend           |                                                                                                  |
 |        Mobile             |                                                                                                  |
